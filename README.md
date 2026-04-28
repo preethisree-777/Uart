@@ -75,3 +75,8 @@ This project helped in gaining practical knowledge of:
 - FSM-based Digital System Design
 - Vivado Synthesis and Implementation Flow
 - FPGA Optimization and Debugging
+
+## Author
+
+**Preethi Sree**  
+Electronics and Communication Engineering
